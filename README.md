@@ -3,7 +3,7 @@
 
 - **Conhecimento Prévio Necessário:** Estrutura de seleção **if**; estruturas de repetição **for**; Conhecimento das funções da biblioteca **inge9**.
 
-O jogo "Zombie Attack" foi desenvolvido utilizando a **linguagem de programação C++** e os recursos da biblioteca **inge9**, no contexto da disciplina "MATB22 - Laboratório de Informática na Educação", no semestre de 2021.1 sob orientação do professor Rodrigo Rocha.
+O jogo "Zombie Attack" foi desenvolvido utilizando a **linguagem de programação C++** e os recursos da biblioteca [**inge9**](https://rodrigorgs.github.io/inge9/), no contexto da disciplina "MATB22 - Laboratório de Informática na Educação", no semestre de 2021.1 sob orientação do professor Rodrigo Rocha.
 
 ## Sobre o jogo
 ![Imagem representativa do jogo](https://cdn.discordapp.com/attachments/845388670390370344/848340318428332052/cover_1.png)
